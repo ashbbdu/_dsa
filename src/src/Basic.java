@@ -1,12 +1,9 @@
 public class Basic {
     public static void main(String[] args) {
-//        what are varaibles
-        int a = 20;
-        int b = 30;
-        int c = a + b;
+//
+        int a = 20 ;
+        int b = 30 ;
+        int c = a +  b ;
         System.out.println(c);
-
-
-
     }
 }
